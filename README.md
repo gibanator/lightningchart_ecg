@@ -5,7 +5,7 @@ This activity is recorded from a patient using electrodes placed on the skin.\
 Though, it is important to note, that ***ECG doesn’t equal heartrate*** as by analyzing ECG data it is possible to get a comprehensive picture of heart’s activity. 
 This includes timing, strength of the heart beats and it can reveal not only heart rate, but also rhythm and presence of arrhythmias, heart attacks and other diseases.
 
-![image](https://gist.github.com/assets/76473617/7d73d99d-1bfa-4467-a990-ee6a9b15bae5)
+![ECG](md_images/ECG.png)
 
 Processing ECG data is a complex thing. It consists of recording signal, its filtering, digitalization and actions related to analyzing. 
 They include calculation of the heart rate, diagnosing the rhythm, and generating a report.
@@ -249,7 +249,7 @@ In this example, we add 10 points to the graph per tick. You can experiment with
     sys.exit(app.exec())
 ```
 ## End result
-![image_2024-06-03_13-11-49](https://gist.github.com/assets/76473617/e15d5620-9aea-4c25-9290-949cebe76afd)
+![Image of a Dashboard](/md_images/dashboard_demo.png "End result")
 
 ## Conclusion
 In this guide, we created an app for ECG signal processing in Python. We used powerful libraries `lightningchart`, `pandas`, `PyQt`. With the ready graphs, we are now all set to performing ECG analysis on our graphs. It can be used to detect various diseases and also for machine learning.
