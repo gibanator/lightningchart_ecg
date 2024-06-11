@@ -1,4 +1,4 @@
-# Visualize ECG with LightingChart
+# Visualize ECG with LightningChart
 ## Introduction
 **Electrocardiogram analysis** (ECG analysis) is a process of recording, processing and analyzing a patient’s heart’s electrical activity. 
 This activity is recorded from a patient using electrodes placed on the skin.\
